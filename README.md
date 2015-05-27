@@ -1,18 +1,4 @@
 <style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #104E8B; 
-	color: #FFF;
-	font-weight: bold;
-}
 </style><table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>Herre Bubber</th><th>&nbsp;</th><th>&nbsp;</th><th>WOD1</th><th>&nbsp;</th><th>WOD2</th><th>&nbsp;</th><th>WOD3</th><th>&nbsp;</th><th>&nbsp;</th></tr>
  <tr><td>Plads</td><td>Nr.</td><td>Navn</td><td>Tid</td><td>Point</td><td>Reps</td><td>Point</td><td>Kg</td><td>Point</td><td>Total point</td></tr>
